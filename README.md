@@ -5,7 +5,7 @@ The objective was to explore and understand the complex dynamics of a hydrogen a
 
 > **E. Barrabés, M. Ollé, F. Borondo, D. Farrelly, J.M. Mondelo**  
 > *Phase space structure of the hydrogen atom in a circularly polarized microwave field*  
-> [Phys. Rev. A 86, 063428 (2012)](https://doi.org/10.1103/PhysRevA.86.063428)
+> Phys. Rev. A 86, 063428 (2012)
 
 Starting from this work, I implemented the proposed numerical strategies **from scratch in MATLAB** and suggested complementary approaches to deepen the analysis of this nonlinear dynamical system.
 
@@ -20,7 +20,7 @@ The study includes:
 
 🧠 The goal was not only to replicate known results but to develop a self-contained codebase and gain new insight into the system's phase space structure.
 
-📄 [Final Report (PDF)](./HYDROGEN_ATOM_QQ_POL_NAVARRO_PEREZ%20(9).pdf)  
-📊 [Presentation (Beamer PDF)](./BEAMER_QQ_HYDROGEN%20(2).pdf)
+📄 Report: `ReportHydrogenQQ_PolNavarroPerez.pdf`  
+📊 Presentation: `BEAMER_QQ_PolNavarroPerez_HYDROGEN.pdf`
 
 > 💻 All simulations and figures were generated using **MATLAB**.
